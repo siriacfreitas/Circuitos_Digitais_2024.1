@@ -1,0 +1,31 @@
+LIBRARY ieee;
+USE ieee.std_logic_1164.ALL;
+
+ENTITY Lab_04_linha1 IS 
+    PORT(
+         NUM1: in std_logic_vector(3 downto 0);
+         LINHA1: out std_logic_vector (7 downto 0);
+          );
+END ENTITY;
+
+ARCHITECTURE main OF Lab_04_linha1 IS
+    BEGIN
+
+    LINHA1(0)<='0';
+    
+    LINHA1(1)<=((NOT NUM1(1)) AND (NOT NUM1(2)) AND (NOT NUM1(3))) OR ((NOT NUM1(1)) AND NUM1(2) AND NUM1(3)) OR (NUM1(1) AND (NOT NUM1(2)) AND NUM1(3)) OR((NOT NUM1(0)) AND NUM1(1) AND NUM1(2) AND (NOT NUM1(3))) OR (NUM1(0) AND (NOT NUM1(2)) AND (NOT NUM1(3)));
+
+    LINHA1(2)<= ((NOT NUM1(0)) AND NUM1(1) AND (NOT NUM1(2)) AND (NOT NUM1(3))) OR (NUM1(0) AND (NOT NUM1(1)) AND (NOT NUM1(2)) AND NUM1(3) ) OR ( NUM1(0) AND (NOT NUM1(1)) AND NUM1(2) AND (NOT NUM1(3)));
+
+    LINHA1(3)<= ((NOT NUM1(0)) AND (NOT NUM1(1)) AND (NOT NUM1(2)) AND NUM1(3)) OR ( NUM1(0) AND NUM1(1) AND NUM1(2) AND NUM1(3)) ;
+
+    LINHA1(4)<= ((NOT NUM1(0)) AND NUM1(1) AND NUM1(2) AND NUM1(3));
+
+    LINHA1(5)<= ((NOT NUM1(1)) AND (NOT NUM1(3))) OR ((NOT NUM1(1)) AND NUM1(2)) OR ( NUM1(2) AND (NOT NUM1(3))) OR (NUM1(1) AND (NOT NUM1(2)) AND NUM1(3)) OR (NUM1(0) AND (NOT NUM1(3)));
+ 
+    LINHA1(6)<='0';
+
+    LINHA1(7)<='0';
+
+END ARCHITECTURE;
+        

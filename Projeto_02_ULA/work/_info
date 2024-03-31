@@ -1,0 +1,995 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+Eproj_02_and
+Z0 w1711857051
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 688
+Z3 dC:/Users/velyn/Downloads/CD/Projeto_02_ULA
+Z4 8C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_and.vhdl
+Z5 FC:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_and.vhdl
+l0
+L4 1
+VHfaU_DF5D70G<Y_8ZQLSU3
+!s100 ^3AoO294bd^dT?TXLmWf10
+Z6 OV;C;2020.1;71
+32
+Z7 !s110 1711885953
+!i10b 1
+Z8 !s108 1711885953.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_and.vhdl|
+Z10 !s107 C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_and.vhdl|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Amain
+R1
+R2
+DEx4 work 11 proj_02_and 0 22 HfaU_DF5D70G<Y_8ZQLSU3
+!i122 688
+l13
+Z13 L12 11
+VVg[L6o7V5E[=QQbR`<W6n2
+!s100 70b5c3bfAbOHFciY<3f8e0
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Eproj_02_bcd
+R0
+R1
+R2
+!i122 689
+R3
+Z14 8C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_bcd.vhdl
+Z15 FC:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_bcd.vhdl
+l0
+L4 1
+V[688Ka8jn]l4=co=C17;@2
+!s100 8CW?NLz@;IDQYYQ@BQm4Y0
+R6
+32
+R7
+!i10b 1
+R8
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_bcd.vhdl|
+Z17 !s107 C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_bcd.vhdl|
+!i113 1
+R11
+R12
+Amain
+R1
+R2
+DEx4 work 11 proj_02_bcd 0 22 [688Ka8jn]l4=co=C17;@2
+!i122 689
+l23
+L11 83
+VeBM00<]_adcgQ2zcWNSk20
+!s100 7dCl=z<We_N>1HkLC9;;92
+R6
+32
+R7
+!i10b 1
+R8
+R16
+R17
+!i113 1
+R11
+R12
+Eproj_02_bloco
+R0
+R1
+R2
+!i122 690
+R3
+Z18 8C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_bloco.vhdl
+Z19 FC:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_bloco.vhdl
+l0
+L4 1
+V=9?kH3S3HlP223@0TZHBD1
+!s100 ^z:]01:a[hLSb;hY<>5oE3
+R6
+32
+Z20 !s110 1711885954
+!i10b 1
+Z21 !s108 1711885954.000000
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_bloco.vhdl|
+Z23 !s107 C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_bloco.vhdl|
+!i113 1
+R11
+R12
+Amain
+R1
+R2
+DEx4 work 13 proj_02_bloco 0 22 =9?kH3S3HlP223@0TZHBD1
+!i122 690
+l13
+L11 13
+V@gD:WCJ1?DBoX9_he:NAY3
+!s100 nak399g6L`MTbCaMdBk>e1
+R6
+32
+R20
+!i10b 1
+R21
+R22
+R23
+!i113 1
+R11
+R12
+Eproj_02_circuito
+R0
+R1
+R2
+!i122 691
+R3
+Z24 8C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_circuito.vhdl
+Z25 FC:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_circuito.vhdl
+l0
+L4 1
+Vz]KzMOM;_[[8`>]Moa>iE3
+!s100 ?K[c8o9l3g2l9C?mRofXA0
+R6
+32
+R20
+!i10b 1
+R21
+Z26 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_circuito.vhdl|
+Z27 !s107 C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_circuito.vhdl|
+!i113 1
+R11
+R12
+Amain
+R1
+R2
+DEx4 work 16 proj_02_circuito 0 22 z]KzMOM;_[[8`>]Moa>iE3
+!i122 691
+l44
+L13 52
+VS`oI1BX>DbXoX[gE=e9>B1
+!s100 D2MDKNP7nPVa6HV__nV`32
+R6
+32
+R20
+!i10b 1
+R21
+R26
+R27
+!i113 1
+R11
+R12
+Eproj_02_d7seg
+Z28 w1711857052
+R1
+R2
+!i122 669
+R3
+Z29 8C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_D7seg.vhdl
+Z30 FC:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_D7seg.vhdl
+l0
+L4 1
+V@JUnP?O0CfLKRAA>MTP3b3
+!s100 1oXBffmEP`N9CNRo>5TL]1
+R6
+32
+Z31 !s110 1711885950
+!i10b 1
+Z32 !s108 1711885950.000000
+Z33 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_D7seg.vhdl|
+Z34 !s107 C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_D7seg.vhdl|
+!i113 1
+R11
+R12
+Amain
+R1
+R2
+DEx4 work 13 proj_02_d7seg 0 22 @JUnP?O0CfLKRAA>MTP3b3
+!i122 669
+l13
+L11 18
+VbfVk:jNgnfn[gA8DSf3RO0
+!s100 0DRAZPKHgjd3V>_78?VGK0
+R6
+32
+R31
+!i10b 1
+R32
+R33
+R34
+!i113 1
+R11
+R12
+Eproj_02_deslocador_direita_1b
+R28
+R1
+R2
+!i122 670
+R3
+Z35 8C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_deslocador_direita_1b.vhdl
+Z36 FC:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_deslocador_direita_1b.vhdl
+l0
+L4 1
+V0S=SdZR>BV5[B8FgGkoSH1
+!s100 9FSz>_@a_08fKmXYRg0J^2
+R6
+32
+R31
+!i10b 1
+R32
+Z37 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_deslocador_direita_1b.vhdl|
+Z38 !s107 C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_deslocador_direita_1b.vhdl|
+!i113 1
+R11
+R12
+Alog
+R1
+R2
+DEx4 work 29 proj_02_deslocador_direita_1b 0 22 0S=SdZR>BV5[B8FgGkoSH1
+!i122 670
+l22
+Z39 L12 14
+V[8OYO:QfPoc`U1[kf6HdF0
+!s100 ]MXOZ97H1K34<gOZSb7b41
+R6
+32
+R31
+!i10b 1
+R32
+R37
+R38
+!i113 1
+R11
+R12
+Eproj_02_deslocador_direita_2b
+R28
+R1
+R2
+!i122 671
+R3
+Z40 8C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_deslocador_direita_2b.vhdl
+Z41 FC:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_deslocador_direita_2b.vhdl
+l0
+L4 1
+VXb`5X:eJ2k4e7o?hgIGjC3
+!s100 Nl<A`gE^Ejfc>Zof8GMKD3
+R6
+32
+R31
+!i10b 1
+R32
+Z42 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_deslocador_direita_2b.vhdl|
+Z43 !s107 C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_deslocador_direita_2b.vhdl|
+!i113 1
+R11
+R12
+Alog
+R1
+R2
+DEx4 work 29 proj_02_deslocador_direita_2b 0 22 Xb`5X:eJ2k4e7o?hgIGjC3
+!i122 671
+l22
+R39
+VlAMnj1^NO:@5LLJ?8<;Z82
+!s100 ljZ7ZP_DOF8kGDgbPcb]k0
+R6
+32
+R31
+!i10b 1
+R32
+R42
+R43
+!i113 1
+R11
+R12
+Eproj_02_deslocador_direita_4b
+R28
+R1
+R2
+!i122 672
+R3
+Z44 8C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_deslocador_direita_4b.vhdl
+Z45 FC:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_deslocador_direita_4b.vhdl
+l0
+L4 1
+VE?zg^A^z]dBPKcz[9Bek;3
+!s100 [FHf2Pln8aI0ceVSoS6a53
+R6
+32
+R31
+!i10b 1
+R32
+Z46 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_deslocador_direita_4b.vhdl|
+Z47 !s107 C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_deslocador_direita_4b.vhdl|
+!i113 1
+R11
+R12
+Alog
+R1
+R2
+DEx4 work 29 proj_02_deslocador_direita_4b 0 22 E?zg^A^z]dBPKcz[9Bek;3
+!i122 672
+l22
+R39
+VmPAWa@f[iXg>YD]eTgkd80
+!s100 O9Tm7;:Ug]l8dlHR1Go2n3
+R6
+32
+R31
+!i10b 1
+R32
+R46
+R47
+!i113 1
+R11
+R12
+Eproj_02_deslocador_direita_8b
+R28
+R1
+R2
+!i122 673
+R3
+Z48 8C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_deslocador_direita_8b.vhdl
+Z49 FC:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_deslocador_direita_8b.vhdl
+l0
+L4 1
+VX<=eI`XB0MJlU16Zn[`d90
+!s100 N@DSNLD`W6I^zjIb22>V>3
+R6
+32
+Z50 !s110 1711885951
+!i10b 1
+R32
+Z51 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_deslocador_direita_8b.vhdl|
+Z52 !s107 C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_deslocador_direita_8b.vhdl|
+!i113 1
+R11
+R12
+Alog
+R1
+R2
+DEx4 work 29 proj_02_deslocador_direita_8b 0 22 X<=eI`XB0MJlU16Zn[`d90
+!i122 673
+l39
+Z53 L11 33
+VNo:^kffm9WfjXPQHmfLbI2
+!s100 JNbU;V^97T1]8@1f^JXA`2
+R6
+32
+R50
+!i10b 1
+R32
+R51
+R52
+!i113 1
+R11
+R12
+Eproj_02_deslocador_esquerda_1b
+R28
+R1
+R2
+!i122 674
+R3
+Z54 8C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_deslocador_esquerda_1b.vhdl
+Z55 FC:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_deslocador_esquerda_1b.vhdl
+l0
+L4 1
+V0z6AX<6Q3llc_Io>R<E:20
+!s100 1QjPVllnhCJTY^EB6h;V62
+R6
+32
+R50
+!i10b 1
+Z56 !s108 1711885951.000000
+Z57 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_deslocador_esquerda_1b.vhdl|
+Z58 !s107 C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_deslocador_esquerda_1b.vhdl|
+!i113 1
+R11
+R12
+Alog
+R1
+R2
+DEx4 work 30 proj_02_deslocador_esquerda_1b 0 22 0z6AX<6Q3llc_Io>R<E:20
+!i122 674
+l22
+R39
+V`i;e0R3g;926;[:LYS;A<1
+!s100 U=5CY_dT1Z=2Qi9hoBT=i3
+R6
+32
+R50
+!i10b 1
+R56
+R57
+R58
+!i113 1
+R11
+R12
+Eproj_02_deslocador_esquerda_2b
+R28
+R1
+R2
+!i122 675
+R3
+Z59 8C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_deslocador_esquerda_2b.vhdl
+Z60 FC:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_deslocador_esquerda_2b.vhdl
+l0
+L4 1
+V4b0z3:D^3nnbnBSY14W?z3
+!s100 ;AO?4d6g3jIjEWM=gCa]f3
+R6
+32
+R50
+!i10b 1
+R56
+Z61 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_deslocador_esquerda_2b.vhdl|
+Z62 !s107 C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_deslocador_esquerda_2b.vhdl|
+!i113 1
+R11
+R12
+Alog
+R1
+R2
+DEx4 work 30 proj_02_deslocador_esquerda_2b 0 22 4b0z3:D^3nnbnBSY14W?z3
+!i122 675
+l22
+R39
+V:LKK6UMGS^oZkG03j:Fc83
+!s100 _eJPj0cPLg3BoFK[FL5=G3
+R6
+32
+R50
+!i10b 1
+R56
+R61
+R62
+!i113 1
+R11
+R12
+Eproj_02_deslocador_esquerda_4b
+R28
+R1
+R2
+!i122 676
+R3
+Z63 8C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_deslocador_esquerda_4b.vhdl
+Z64 FC:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_deslocador_esquerda_4b.vhdl
+l0
+L4 1
+VmB:l]hVF4B>^3i?BBm91a2
+!s100 B3gS1gMZfl3M<`dFWLnUO2
+R6
+32
+R50
+!i10b 1
+R56
+Z65 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_deslocador_esquerda_4b.vhdl|
+Z66 !s107 C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_deslocador_esquerda_4b.vhdl|
+!i113 1
+R11
+R12
+Alog
+R1
+R2
+DEx4 work 30 proj_02_deslocador_esquerda_4b 0 22 mB:l]hVF4B>^3i?BBm91a2
+!i122 676
+l22
+R39
+V`Vb;T@m3@3;bGbj`3M8De1
+!s100 Pk:hk>6]lYm]j7WYRXzZ90
+R6
+32
+R50
+!i10b 1
+R56
+R65
+R66
+!i113 1
+R11
+R12
+Eproj_02_deslocador_esquerda_8b
+R28
+R1
+R2
+!i122 677
+R3
+Z67 8C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_deslocador_esquerda_8b.vhdl
+Z68 FC:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_deslocador_esquerda_8b.vhdl
+l0
+L4 1
+VGYaB94VfHFV8;6:HI`dXM1
+!s100 ^iDk5oKmH?U7c`W`2nj4o2
+R6
+32
+R50
+!i10b 1
+R56
+Z69 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_deslocador_esquerda_8b.vhdl|
+Z70 !s107 C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_deslocador_esquerda_8b.vhdl|
+!i113 1
+R11
+R12
+Alog
+R1
+R2
+DEx4 work 30 proj_02_deslocador_esquerda_8b 0 22 GYaB94VfHFV8;6:HI`dXM1
+!i122 677
+l39
+R53
+V3g5YDSzbEf[QJzI2OY`@42
+!s100 RZJQWJ>5i:9N14EBeG<381
+R6
+32
+R50
+!i10b 1
+R56
+R69
+R70
+!i113 1
+R11
+R12
+Eproj_02_multiplexador
+Z71 w1711885947
+R1
+R2
+!i122 678
+R3
+Z72 8C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_multiplexador.vhdl
+Z73 FC:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_multiplexador.vhdl
+l0
+L4 1
+V5V<GTFm1HCFkJcmkOYA3K1
+!s100 heMR7Q^z;o<iY9PPGC0101
+R6
+32
+R50
+!i10b 1
+R56
+Z74 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_multiplexador.vhdl|
+Z75 !s107 C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_multiplexador.vhdl|
+!i113 1
+R11
+R12
+Amain
+R1
+R2
+DEx4 work 21 proj_02_multiplexador 0 22 5V<GTFm1HCFkJcmkOYA3K1
+!i122 678
+l131
+L14 182
+V4jPLK_NThTTg0N38XALI@3
+!s100 dm9iCaa[J]l:ljA2al]_91
+R6
+32
+R50
+!i10b 1
+R56
+R74
+R75
+!i113 1
+R11
+R12
+Eproj_02_multiplicador
+Z76 w1711884976
+R1
+R2
+!i122 679
+R3
+Z77 8C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_multiplicador.vhdl
+Z78 FC:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_multiplicador.vhdl
+l0
+L4 1
+VoWH`eYeYKca4XTHlK6ijK1
+!s100 J4V2e4IL3Y4NlIgZ9HkOI2
+R6
+32
+Z79 !s110 1711885952
+!i10b 1
+Z80 !s108 1711885952.000000
+Z81 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_multiplicador.vhdl|
+Z82 !s107 C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_multiplicador.vhdl|
+!i113 1
+R11
+R12
+Alog
+R1
+R2
+DEx4 work 21 proj_02_multiplicador 0 22 oWH`eYeYKca4XTHlK6ijK1
+!i122 679
+l31
+L13 113
+VK^Rj:UjT58[71a7jJE1Zj2
+!s100 SNLDLnP_J4]LROg[g3;3C2
+R6
+32
+R79
+!i10b 1
+R80
+R81
+R82
+!i113 1
+R11
+R12
+Eproj_02_mux_8b
+Z83 w1711859448
+R1
+R2
+!i122 692
+R3
+Z84 8C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Proj_02_mux_8b.vhd
+Z85 FC:/Users/velyn/Downloads/CD/Projeto_02_ULA/Proj_02_mux_8b.vhd
+l0
+L4 1
+VN0IE=a14KUCj1Q5=UYBM21
+!s100 ZFTRB^Jc?65cOY7KVLDTi0
+R6
+32
+R20
+!i10b 1
+R21
+Z86 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Proj_02_mux_8b.vhd|
+Z87 !s107 C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Proj_02_mux_8b.vhd|
+!i113 1
+R11
+R12
+Alog
+R1
+R2
+Z88 DEx4 work 14 proj_02_mux_8b 0 22 N0IE=a14KUCj1Q5=UYBM21
+!i122 692
+l13
+Z89 L10 19
+Z90 V5:Ei>Rb1o:_BhU^W_GeXA2
+Z91 !s100 GeAURfUj8C37nzE9fQaMe3
+R6
+32
+R20
+!i10b 1
+R21
+R86
+R87
+!i113 1
+R11
+R12
+Eproj_02_mux_deslocador
+R28
+R1
+R2
+!i122 680
+R3
+Z92 8C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_mux_deslocador.vhdl
+Z93 FC:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_mux_deslocador.vhdl
+l0
+L4 1
+VLUJbBlRcb_IUAYFRVVG@f3
+!s100 lSzL44gPfJI4g<36RfoY90
+R6
+32
+R79
+!i10b 1
+R80
+Z94 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_mux_deslocador.vhdl|
+Z95 !s107 C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_mux_deslocador.vhdl|
+!i113 1
+R11
+R12
+Alog
+R1
+R2
+DEx4 work 22 proj_02_mux_deslocador 0 22 LUJbBlRcb_IUAYFRVVG@f3
+!i122 680
+l13
+L11 6
+VQHI5YLkic]6DFO8@m_S`A3
+!s100 4WROc2E8eagTbS9nS?4d>1
+R6
+32
+R79
+!i10b 1
+R80
+R94
+R95
+!i113 1
+R11
+R12
+Eproj_02_not
+R28
+R1
+R2
+!i122 681
+R3
+Z96 8C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_not.vhdl
+Z97 FC:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_not.vhdl
+l0
+L4 1
+VGAc]le9JBOBU;dzaNIUGH3
+!s100 mLn9^g>I^ASO1lH0WIG0<0
+R6
+32
+R79
+!i10b 1
+R80
+Z98 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_not.vhdl|
+Z99 !s107 C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_not.vhdl|
+!i113 1
+R11
+R12
+Amain
+R1
+R2
+DEx4 work 11 proj_02_not 0 22 GAc]le9JBOBU;dzaNIUGH3
+!i122 681
+l12
+Z100 L11 11
+VaHHYDC;6`JQM297oYheW21
+!s100 GZ?l>Ban>hb_K?6feYmPP0
+R6
+32
+R79
+!i10b 1
+R80
+R98
+R99
+!i113 1
+R11
+R12
+Eproj_02_or
+R28
+R1
+R2
+!i122 682
+R3
+Z101 8C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_or.vhdl
+Z102 FC:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_or.vhdl
+l0
+L4 1
+VzU?3CA`c645Y;lkFCKJ3n3
+!s100 `FDbZezQHk?L<4J2Kg^]]0
+R6
+32
+R79
+!i10b 1
+R80
+Z103 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_or.vhdl|
+Z104 !s107 C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_or.vhdl|
+!i113 1
+R11
+R12
+Amain
+R1
+R2
+DEx4 work 10 proj_02_or 0 22 zU?3CA`c645Y;lkFCKJ3n3
+!i122 682
+l13
+R13
+VG0hl3>36X`OIoM]Jh[WB>0
+!s100 96;V`G7Q2U3zg]^YZGXSU1
+R6
+32
+R79
+!i10b 1
+R80
+R103
+R104
+!i113 1
+R11
+R12
+Eproj_02_somador
+R28
+R1
+R2
+!i122 683
+R3
+Z105 8C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_somador.vhdl
+Z106 FC:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_somador.vhdl
+l0
+L4 1
+VBYUlGXKSSId`61^b3lV5=0
+!s100 ;K3kkT3]W<=CfoGfI[Qk^0
+R6
+32
+R79
+!i10b 1
+R80
+Z107 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_somador.vhdl|
+Z108 !s107 C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_somador.vhdl|
+!i113 1
+R11
+R12
+Asoma
+R1
+R2
+DEx4 work 15 proj_02_somador 0 22 BYUlGXKSSId`61^b3lV5=0
+!i122 683
+l19
+Z109 L15 19
+VJI;D8Kf07ZGI;Q<SU@P[00
+!s100 RZR][blm5[nIUSfhB_;X@1
+R6
+32
+R79
+!i10b 1
+R80
+R107
+R108
+!i113 1
+R11
+R12
+Eproj_02_subtrator
+R28
+R1
+R2
+!i122 684
+R3
+Z110 8C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_subtrator.vhdl
+Z111 FC:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_subtrator.vhdl
+l0
+L4 1
+V3e1;AJRgM52:9CCIlzhJD0
+!s100 E0Qac=D92VG3gPI8EG8MP1
+R6
+32
+R7
+!i10b 1
+R80
+Z112 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_subtrator.vhdl|
+Z113 !s107 C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_subtrator.vhdl|
+!i113 1
+R11
+R12
+Asubtracao
+R1
+R2
+DEx4 work 17 proj_02_subtrator 0 22 3e1;AJRgM52:9CCIlzhJD0
+!i122 684
+l19
+R109
+V_BOl42aU?jiz4R`O_]n3l1
+!s100 VaAfS?PEZPBKK:91=]XKT1
+R6
+32
+R7
+!i10b 1
+R80
+R112
+R113
+!i113 1
+R11
+R12
+Eproj_02_swa
+Z114 w1711861068
+R1
+R2
+!i122 685
+R3
+Z115 8C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_swa.vhdl
+Z116 FC:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_swa.vhdl
+l0
+L4 1
+VCe96CF[IjdmX`OLk1^D]L1
+!s100 =9SaUG`Z7:F@K^l]Qk[h43
+R6
+32
+R7
+!i10b 1
+R8
+Z117 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_swa.vhdl|
+Z118 !s107 C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_swa.vhdl|
+!i113 1
+R11
+R12
+Aswa
+R1
+R2
+DEx4 work 11 proj_02_swa 0 22 Ce96CF[IjdmX`OLk1^D]L1
+!i122 685
+l12
+R100
+VXQekemDd<iRLTW7W;aAdR2
+!s100 VKg>^3>VLA[R9hh5=2Qj70
+R6
+32
+R7
+!i10b 1
+R8
+R117
+R118
+!i113 1
+R11
+R12
+Eproj_02_swp
+Z119 w1711861080
+R1
+R2
+!i122 686
+R3
+Z120 8C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_swp.vhdl
+Z121 FC:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_swp.vhdl
+l0
+L4 1
+Vgc=gKB829iV`=hGlklSO31
+!s100 G4FG0h<<J=g2?LR5ziCAE0
+R6
+32
+R7
+!i10b 1
+R8
+Z122 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_swp.vhdl|
+Z123 !s107 C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_swp.vhdl|
+!i113 1
+R11
+R12
+Aswp
+R1
+R2
+DEx4 work 11 proj_02_swp 0 22 gc=gKB829iV`=hGlklSO31
+!i122 686
+l12
+R100
+Vl4iK=KGaGWBI1DmIV<zQS3
+!s100 @JBMU?kg7fH;n<mD<eC^k1
+R6
+32
+R7
+!i10b 1
+R8
+R122
+R123
+!i113 1
+R11
+R12
+Eproj_02_xor
+R28
+R1
+R2
+!i122 687
+R3
+Z124 8C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_xor.vhdl
+Z125 FC:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_xor.vhdl
+l0
+L4 1
+V;oHfAcEY@WfebUIB4RSNU1
+!s100 ?[Wo=C5bh`8cD=iMim@k;0
+R6
+32
+R7
+!i10b 1
+R8
+Z126 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_xor.vhdl|
+Z127 !s107 C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_xor.vhdl|
+!i113 1
+R11
+R12
+Amain
+R1
+R2
+DEx4 work 11 proj_02_xor 0 22 ;oHfAcEY@WfebUIB4RSNU1
+!i122 687
+l13
+R13
+V:R[FD4kFP>`V9A>G=4>0M1
+!s100 RJE09Ad3b]AQTZ`agFCdN2
+R6
+32
+R7
+!i10b 1
+R8
+R126
+R127
+!i113 1
+R11
+R12

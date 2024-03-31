@@ -1,0 +1,177 @@
+C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_bcd.vhdl {1 {vcom -work work -2002 -explicit -stats=none C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_bcd.vhdl
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Proj_02_bcd
+-- Compiling architecture main of Proj_02_bcd
+
+} {} {}} C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_xor.vhdl {1 {vcom -work work -2002 -explicit -stats=none C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_xor.vhdl
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Proj_02_xor
+-- Compiling architecture main of Proj_02_xor
+
+} {} {}} C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_or.vhdl {1 {vcom -work work -2002 -explicit -stats=none C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_or.vhdl
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Proj_02_or
+-- Compiling architecture main of Proj_02_or
+
+} {} {}} C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_circuito.vhdl {1 {vcom -work work -2002 -explicit -stats=none C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_circuito.vhdl
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Proj_02_circuito
+-- Compiling architecture main of Proj_02_circuito
+
+} {} {}} C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_D7seg.vhdl {1 {vcom -work work -2002 -explicit -stats=none C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_D7seg.vhdl
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Proj_02_D7seg
+-- Compiling architecture main of Proj_02_D7seg
+
+} {} {}} C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_deslocador_direita_8b.vhdl {1 {vcom -work work -2002 -explicit -stats=none C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_deslocador_direita_8b.vhdl
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Proj_02_deslocador_direita_8b
+-- Compiling architecture log of Proj_02_deslocador_direita_8b
+
+} {} {}} C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_deslocador_esquerda_8b.vhdl {1 {vcom -work work -2002 -explicit -stats=none C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_deslocador_esquerda_8b.vhdl
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Proj_02_deslocador_esquerda_8b
+-- Compiling architecture log of Proj_02_deslocador_esquerda_8b
+
+} {} {}} C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_swa.vhdl {1 {vcom -work work -2002 -explicit -stats=none C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_swa.vhdl
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Proj_02_swa
+-- Compiling architecture swa of Proj_02_swa
+
+} {} {}} C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_and.vhdl {1 {vcom -work work -2002 -explicit -stats=none C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_and.vhdl
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Proj_02_and
+-- Compiling architecture main of Proj_02_and
+
+} {} {}} C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_subtrator.vhdl {1 {vcom -work work -2002 -explicit -stats=none C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_subtrator.vhdl
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Proj_02_subtrator
+-- Compiling architecture subtracao of Proj_02_subtrator
+
+} {} {}} C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_bloco.vhdl {1 {vcom -work work -2002 -explicit -stats=none C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_bloco.vhdl
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Proj_02_bloco
+-- Compiling architecture main of Proj_02_bloco
+
+} {} {}} C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_not.vhdl {1 {vcom -work work -2002 -explicit -stats=none C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_not.vhdl
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Proj_02_not
+-- Compiling architecture main of Proj_02_not
+
+} {} {}} C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_mux_deslocador.vhdl {1 {vcom -work work -2002 -explicit -stats=none C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_mux_deslocador.vhdl
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Proj_02_mux_deslocador
+-- Compiling architecture log of Proj_02_mux_deslocador
+
+} {} {}} C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_swp.vhdl {1 {vcom -work work -2002 -explicit -stats=none C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_swp.vhdl
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Proj_02_swp
+-- Compiling architecture swp of Proj_02_swp
+
+} {} {}} C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Proj_02_mux_8b.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Proj_02_mux_8b.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Proj_02_mux_8b
+-- Compiling architecture log of Proj_02_mux_8b
+
+} {} {}} C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_deslocador_direita_1b.vhdl {1 {vcom -work work -2002 -explicit -stats=none C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_deslocador_direita_1b.vhdl
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Proj_02_deslocador_direita_1b
+-- Compiling architecture log of Proj_02_deslocador_direita_1b
+
+} {} {}} C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_deslocador_esquerda_1b.vhdl {1 {vcom -work work -2002 -explicit -stats=none C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_deslocador_esquerda_1b.vhdl
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Proj_02_deslocador_esquerda_1b
+-- Compiling architecture log of Proj_02_deslocador_esquerda_1b
+
+} {} {}} C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_deslocador_direita_2b.vhdl {1 {vcom -work work -2002 -explicit -stats=none C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_deslocador_direita_2b.vhdl
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Proj_02_deslocador_direita_2b
+-- Compiling architecture log of Proj_02_deslocador_direita_2b
+
+} {} {}} C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_deslocador_esquerda_2b.vhdl {1 {vcom -work work -2002 -explicit -stats=none C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_deslocador_esquerda_2b.vhdl
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Proj_02_deslocador_esquerda_2b
+-- Compiling architecture log of Proj_02_deslocador_esquerda_2b
+
+} {} {}} C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_somador.vhdl {1 {vcom -work work -2002 -explicit -stats=none C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_somador.vhdl
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Proj_02_somador
+-- Compiling architecture soma of Proj_02_somador
+
+} {} {}} C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_deslocador_direita_4b.vhdl {1 {vcom -work work -2002 -explicit -stats=none C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_deslocador_direita_4b.vhdl
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Proj_02_deslocador_direita_4b
+-- Compiling architecture log of Proj_02_deslocador_direita_4b
+
+} {} {}} C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_deslocador_esquerda_4b.vhdl {1 {vcom -work work -2002 -explicit -stats=none C:/Users/velyn/Downloads/CD/Projeto_02_ULA/Projeto_02_ULA/Proj_02_deslocador_esquerda_4b.vhdl
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Proj_02_deslocador_esquerda_4b
+-- Compiling architecture log of Proj_02_deslocador_esquerda_4b
+
+} {} {}}

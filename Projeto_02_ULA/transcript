@@ -1,0 +1,910 @@
+# Compile of Proj_02_D7seg.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_1b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_2b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_4b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_8b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_1b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_2b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_4b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_8b.vhdl was successful.
+# Compile of Proj_02_multiplexador.vhdl failed with 15 errors.
+# Compile of Proj_02_multiplicador.vhdl was successful.
+# Compile of Proj_02_mux_deslocador.vhdl was successful.
+# Compile of Proj_02_not.vhdl was successful.
+# Compile of Proj_02_or.vhdl was successful.
+# Compile of Proj_02_somador.vhdl was successful.
+# Compile of Proj_02_subtrator.vhdl was successful.
+# Compile of Proj_02_swa.vhdl was successful.
+# Compile of Proj_02_swp.vhdl was successful.
+# Compile of Proj_02_xor.vhdl was successful.
+# Compile of Proj_02_and.vhdl was successful.
+# Compile of Proj_02_bcd.vhdl was successful.
+# Compile of Proj_02_bloco.vhdl was successful.
+# Compile of Proj_02_circuito.vhdl was successful.
+# 23 compiles, 1 failed with 15 errors.
+# Compile of Proj_02_D7seg.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_1b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_2b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_4b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_8b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_1b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_2b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_4b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_8b.vhdl was successful.
+# Compile of Proj_02_multiplexador.vhdl failed with 13 errors.
+# Compile of Proj_02_multiplicador.vhdl was successful.
+# Compile of Proj_02_mux_deslocador.vhdl was successful.
+# Compile of Proj_02_not.vhdl was successful.
+# Compile of Proj_02_or.vhdl was successful.
+# Compile of Proj_02_somador.vhdl was successful.
+# Compile of Proj_02_subtrator.vhdl was successful.
+# Compile of Proj_02_swa.vhdl was successful.
+# Compile of Proj_02_swp.vhdl was successful.
+# Compile of Proj_02_xor.vhdl was successful.
+# Compile of Proj_02_and.vhdl was successful.
+# Compile of Proj_02_bcd.vhdl was successful.
+# Compile of Proj_02_bloco.vhdl was successful.
+# Compile of Proj_02_circuito.vhdl was successful.
+# 23 compiles, 1 failed with 13 errors.
+# Compile of Proj_02_D7seg.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_1b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_2b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_4b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_8b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_1b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_2b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_4b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_8b.vhdl was successful.
+# Compile of Proj_02_multiplexador.vhdl failed with 6 errors.
+# Compile of Proj_02_multiplicador.vhdl was successful.
+# Compile of Proj_02_mux_deslocador.vhdl was successful.
+# Compile of Proj_02_not.vhdl was successful.
+# Compile of Proj_02_or.vhdl was successful.
+# Compile of Proj_02_somador.vhdl was successful.
+# Compile of Proj_02_subtrator.vhdl was successful.
+# Compile of Proj_02_swa.vhdl was successful.
+# Compile of Proj_02_swp.vhdl was successful.
+# Compile of Proj_02_xor.vhdl was successful.
+# Compile of Proj_02_and.vhdl was successful.
+# Compile of Proj_02_bcd.vhdl was successful.
+# Compile of Proj_02_bloco.vhdl was successful.
+# Compile of Proj_02_circuito.vhdl was successful.
+# Compile of Proj_02_mux_8b.vhd was successful.
+# 24 compiles, 1 failed with 6 errors.
+# Compile of Proj_02_D7seg.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_1b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_2b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_4b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_8b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_1b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_2b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_4b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_8b.vhdl was successful.
+# Compile of Proj_02_multiplexador.vhdl failed with 8 errors.
+# Compile of Proj_02_multiplicador.vhdl was successful.
+# Compile of Proj_02_mux_deslocador.vhdl was successful.
+# Compile of Proj_02_not.vhdl was successful.
+# Compile of Proj_02_or.vhdl was successful.
+# Compile of Proj_02_somador.vhdl was successful.
+# Compile of Proj_02_subtrator.vhdl was successful.
+# Compile of Proj_02_swa.vhdl was successful.
+# Compile of Proj_02_swp.vhdl was successful.
+# Compile of Proj_02_xor.vhdl was successful.
+# Compile of Proj_02_and.vhdl was successful.
+# Compile of Proj_02_bcd.vhdl was successful.
+# Compile of Proj_02_bloco.vhdl was successful.
+# Compile of Proj_02_circuito.vhdl was successful.
+# Compile of Proj_02_mux_8b.vhd was successful.
+# 24 compiles, 1 failed with 8 errors.
+# Compile of Proj_02_D7seg.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_1b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_2b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_4b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_8b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_1b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_2b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_4b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_8b.vhdl was successful.
+# Compile of Proj_02_multiplexador.vhdl failed with 5 errors.
+# Compile of Proj_02_multiplicador.vhdl was successful.
+# Compile of Proj_02_mux_deslocador.vhdl was successful.
+# Compile of Proj_02_not.vhdl was successful.
+# Compile of Proj_02_or.vhdl was successful.
+# Compile of Proj_02_somador.vhdl was successful.
+# Compile of Proj_02_subtrator.vhdl was successful.
+# Compile of Proj_02_swa.vhdl was successful.
+# Compile of Proj_02_swp.vhdl was successful.
+# Compile of Proj_02_xor.vhdl was successful.
+# Compile of Proj_02_and.vhdl was successful.
+# Compile of Proj_02_bcd.vhdl was successful.
+# Compile of Proj_02_bloco.vhdl was successful.
+# Compile of Proj_02_circuito.vhdl was successful.
+# Compile of Proj_02_mux_8b.vhd was successful.
+# 24 compiles, 1 failed with 5 errors.
+# Compile of Proj_02_D7seg.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_1b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_2b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_4b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_8b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_1b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_2b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_4b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_8b.vhdl was successful.
+# Compile of Proj_02_multiplexador.vhdl failed with 4 errors.
+# Compile of Proj_02_multiplicador.vhdl was successful.
+# Compile of Proj_02_mux_deslocador.vhdl was successful.
+# Compile of Proj_02_not.vhdl was successful.
+# Compile of Proj_02_or.vhdl was successful.
+# Compile of Proj_02_somador.vhdl was successful.
+# Compile of Proj_02_subtrator.vhdl was successful.
+# Compile of Proj_02_swa.vhdl was successful.
+# Compile of Proj_02_swp.vhdl was successful.
+# Compile of Proj_02_xor.vhdl was successful.
+# Compile of Proj_02_and.vhdl was successful.
+# Compile of Proj_02_bcd.vhdl was successful.
+# Compile of Proj_02_bloco.vhdl was successful.
+# Compile of Proj_02_circuito.vhdl was successful.
+# Compile of Proj_02_mux_8b.vhd was successful.
+# 24 compiles, 1 failed with 4 errors.
+# Compile of Proj_02_D7seg.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_1b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_2b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_4b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_8b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_1b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_2b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_4b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_8b.vhdl was successful.
+# Compile of Proj_02_multiplexador.vhdl failed with 3 errors.
+# Compile of Proj_02_multiplicador.vhdl was successful.
+# Compile of Proj_02_mux_deslocador.vhdl was successful.
+# Compile of Proj_02_not.vhdl was successful.
+# Compile of Proj_02_or.vhdl was successful.
+# Compile of Proj_02_somador.vhdl was successful.
+# Compile of Proj_02_subtrator.vhdl was successful.
+# Compile of Proj_02_swa.vhdl was successful.
+# Compile of Proj_02_swp.vhdl was successful.
+# Compile of Proj_02_xor.vhdl was successful.
+# Compile of Proj_02_and.vhdl was successful.
+# Compile of Proj_02_bcd.vhdl was successful.
+# Compile of Proj_02_bloco.vhdl was successful.
+# Compile of Proj_02_circuito.vhdl was successful.
+# Compile of Proj_02_mux_8b.vhd was successful.
+# 24 compiles, 1 failed with 3 errors.
+# Compile of Proj_02_D7seg.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_1b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_2b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_4b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_8b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_1b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_2b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_4b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_8b.vhdl was successful.
+# Compile of Proj_02_multiplexador.vhdl failed with 2 errors.
+# Compile of Proj_02_multiplicador.vhdl was successful.
+# Compile of Proj_02_mux_deslocador.vhdl was successful.
+# Compile of Proj_02_not.vhdl was successful.
+# Compile of Proj_02_or.vhdl was successful.
+# Compile of Proj_02_somador.vhdl was successful.
+# Compile of Proj_02_subtrator.vhdl was successful.
+# Compile of Proj_02_swa.vhdl was successful.
+# Compile of Proj_02_swp.vhdl was successful.
+# Compile of Proj_02_xor.vhdl was successful.
+# Compile of Proj_02_and.vhdl was successful.
+# Compile of Proj_02_bcd.vhdl was successful.
+# Compile of Proj_02_bloco.vhdl was successful.
+# Compile of Proj_02_circuito.vhdl was successful.
+# Compile of Proj_02_mux_8b.vhd was successful.
+# 24 compiles, 1 failed with 2 errors.
+# Compile of Proj_02_D7seg.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_1b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_2b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_4b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_8b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_1b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_2b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_4b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_8b.vhdl was successful.
+# Compile of Proj_02_multiplexador.vhdl failed with 3 errors.
+# Compile of Proj_02_multiplicador.vhdl was successful.
+# Compile of Proj_02_mux_deslocador.vhdl was successful.
+# Compile of Proj_02_not.vhdl was successful.
+# Compile of Proj_02_or.vhdl was successful.
+# Compile of Proj_02_somador.vhdl was successful.
+# Compile of Proj_02_subtrator.vhdl was successful.
+# Compile of Proj_02_swa.vhdl was successful.
+# Compile of Proj_02_swp.vhdl was successful.
+# Compile of Proj_02_xor.vhdl was successful.
+# Compile of Proj_02_and.vhdl was successful.
+# Compile of Proj_02_bcd.vhdl was successful.
+# Compile of Proj_02_bloco.vhdl was successful.
+# Compile of Proj_02_circuito.vhdl was successful.
+# Compile of Proj_02_mux_8b.vhd was successful.
+# 24 compiles, 1 failed with 3 errors.
+# Compile of Proj_02_D7seg.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_1b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_2b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_4b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_8b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_1b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_2b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_4b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_8b.vhdl was successful.
+# Compile of Proj_02_multiplexador.vhdl failed with 2 errors.
+# Compile of Proj_02_multiplicador.vhdl was successful.
+# Compile of Proj_02_mux_deslocador.vhdl was successful.
+# Compile of Proj_02_not.vhdl was successful.
+# Compile of Proj_02_or.vhdl was successful.
+# Compile of Proj_02_somador.vhdl was successful.
+# Compile of Proj_02_subtrator.vhdl was successful.
+# Compile of Proj_02_swa.vhdl was successful.
+# Compile of Proj_02_swp.vhdl was successful.
+# Compile of Proj_02_xor.vhdl was successful.
+# Compile of Proj_02_and.vhdl was successful.
+# Compile of Proj_02_bcd.vhdl was successful.
+# Compile of Proj_02_bloco.vhdl was successful.
+# Compile of Proj_02_circuito.vhdl was successful.
+# Compile of Proj_02_mux_8b.vhd was successful.
+# 24 compiles, 1 failed with 2 errors.
+# Compile of Proj_02_D7seg.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_1b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_2b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_4b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_8b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_1b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_2b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_4b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_8b.vhdl was successful.
+# Compile of Proj_02_multiplexador.vhdl was successful.
+# Compile of Proj_02_multiplicador.vhdl was successful.
+# Compile of Proj_02_mux_deslocador.vhdl was successful.
+# Compile of Proj_02_not.vhdl was successful.
+# Compile of Proj_02_or.vhdl was successful.
+# Compile of Proj_02_somador.vhdl was successful.
+# Compile of Proj_02_subtrator.vhdl was successful.
+# Compile of Proj_02_swa.vhdl was successful.
+# Compile of Proj_02_swp.vhdl was successful.
+# Compile of Proj_02_xor.vhdl was successful.
+# Compile of Proj_02_and.vhdl was successful.
+# Compile of Proj_02_bcd.vhdl was successful.
+# Compile of Proj_02_bloco.vhdl was successful.
+# Compile of Proj_02_circuito.vhdl was successful.
+# Compile of Proj_02_mux_8b.vhd was successful.
+# 24 compiles, 0 failed with no errors.
+# Compile of Proj_02_D7seg.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_1b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_2b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_4b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_8b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_1b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_2b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_4b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_8b.vhdl was successful.
+# Compile of Proj_02_multiplexador.vhdl was successful.
+# Compile of Proj_02_multiplicador.vhdl was successful.
+# Compile of Proj_02_mux_deslocador.vhdl was successful.
+# Compile of Proj_02_not.vhdl was successful.
+# Compile of Proj_02_or.vhdl was successful.
+# Compile of Proj_02_somador.vhdl was successful.
+# Compile of Proj_02_subtrator.vhdl was successful.
+# Compile of Proj_02_swa.vhdl was successful.
+# Compile of Proj_02_swp.vhdl was successful.
+# Compile of Proj_02_xor.vhdl was successful.
+# Compile of Proj_02_and.vhdl was successful.
+# Compile of Proj_02_bcd.vhdl was successful.
+# Compile of Proj_02_bloco.vhdl was successful.
+# Compile of Proj_02_circuito.vhdl was successful.
+# Compile of Proj_02_mux_8b.vhd was successful.
+# 24 compiles, 0 failed with no errors.
+# vsim Proj_02_multiplexador 
+# Start time: 01:33:07 on Mar 31,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.proj_02_multiplexador(main)
+# Loading work.proj_02_somador(soma)
+# Loading work.proj_02_subtrator(subtracao)
+# Loading work.proj_02_deslocador_esquerda_8b(log)
+# Loading work.proj_02_deslocador_esquerda_1b(log)
+# Loading work.proj_02_mux_deslocador(log)
+# Loading work.proj_02_deslocador_esquerda_2b(log)
+# Loading work.proj_02_deslocador_esquerda_4b(log)
+# Loading work.proj_02_deslocador_direita_8b(log)
+# Loading work.proj_02_deslocador_direita_1b(log)
+# Loading work.proj_02_deslocador_direita_2b(log)
+# Loading work.proj_02_deslocador_direita_4b(log)
+# Loading work.proj_02_swp(swp)
+# Loading work.proj_02_swa(swa)
+# Loading work.proj_02_and(main)
+# Loading work.proj_02_or(main)
+# Loading work.proj_02_xor(main)
+# Loading work.proj_02_mux_8b(log)
+# ** Warning: (vsim-8684) No drivers exist on out port /proj_02_multiplexador/Swp_labble/Swp(6), and its initial value is not used.
+# Therefore, simulation behavior may occur that is not in compliance with
+# the VHDL standard as the initial values come from the base signal /proj_02_multiplexador/O_swp(6).
+# ** Warning: (vsim-8684) No drivers exist on out port /proj_02_multiplexador/Swa_labble/Swa(6), and its initial value is not used.
+# Therefore, simulation behavior may occur that is not in compliance with
+# the VHDL standard as the initial values come from the base signal /proj_02_multiplexador/O_swa(6).
+force -freeze sim:/proj_02_multiplexador/A 00101011 0
+force -freeze sim:/proj_02_multiplexador/B 01001001 0
+force -freeze sim:/proj_02_multiplexador/K 0001 0
+run
+force -freeze sim:/proj_02_multiplexador/K 0010 0
+run
+# Compile of Proj_02_D7seg.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_1b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_2b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_4b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_8b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_1b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_2b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_4b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_8b.vhdl was successful.
+# Compile of Proj_02_multiplexador.vhdl failed with 1 errors.
+# Compile of Proj_02_multiplicador.vhdl was successful.
+# Compile of Proj_02_mux_deslocador.vhdl was successful.
+# Compile of Proj_02_not.vhdl was successful.
+# Compile of Proj_02_or.vhdl was successful.
+# Compile of Proj_02_somador.vhdl was successful.
+# Compile of Proj_02_subtrator.vhdl was successful.
+# Compile of Proj_02_swa.vhdl was successful.
+# Compile of Proj_02_swp.vhdl was successful.
+# Compile of Proj_02_xor.vhdl was successful.
+# Compile of Proj_02_and.vhdl was successful.
+# Compile of Proj_02_bcd.vhdl was successful.
+# Compile of Proj_02_bloco.vhdl was successful.
+# Compile of Proj_02_circuito.vhdl was successful.
+# Compile of Proj_02_mux_8b.vhd was successful.
+# 24 compiles, 1 failed with 1 error.
+# Compile of Proj_02_D7seg.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_1b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_2b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_4b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_8b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_1b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_2b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_4b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_8b.vhdl was successful.
+# Compile of Proj_02_multiplexador.vhdl was successful.
+# Compile of Proj_02_multiplicador.vhdl was successful.
+# Compile of Proj_02_mux_deslocador.vhdl was successful.
+# Compile of Proj_02_not.vhdl was successful.
+# Compile of Proj_02_or.vhdl was successful.
+# Compile of Proj_02_somador.vhdl was successful.
+# Compile of Proj_02_subtrator.vhdl was successful.
+# Compile of Proj_02_swa.vhdl was successful.
+# Compile of Proj_02_swp.vhdl was successful.
+# Compile of Proj_02_xor.vhdl was successful.
+# Compile of Proj_02_and.vhdl was successful.
+# Compile of Proj_02_bcd.vhdl was successful.
+# Compile of Proj_02_bloco.vhdl was successful.
+# Compile of Proj_02_circuito.vhdl was successful.
+# Compile of Proj_02_mux_8b.vhd was successful.
+# 24 compiles, 0 failed with no errors.
+# End time: 01:48:18 on Mar 31,2024, Elapsed time: 0:15:11
+# Errors: 0, Warnings: 22
+# vsim Proj_02_multiplexador 
+# Start time: 01:48:18 on Mar 31,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.proj_02_multiplexador(main)
+# Loading work.proj_02_somador(soma)
+# Loading work.proj_02_subtrator(subtracao)
+# Loading work.proj_02_multiplicador(log)
+# Loading work.proj_02_deslocador_esquerda_8b(log)
+# Loading work.proj_02_deslocador_esquerda_1b(log)
+# Loading work.proj_02_mux_deslocador(log)
+# Loading work.proj_02_deslocador_esquerda_2b(log)
+# Loading work.proj_02_deslocador_esquerda_4b(log)
+# Loading work.proj_02_deslocador_direita_8b(log)
+# Loading work.proj_02_deslocador_direita_1b(log)
+# Loading work.proj_02_deslocador_direita_2b(log)
+# Loading work.proj_02_deslocador_direita_4b(log)
+# Loading work.proj_02_swp(swp)
+# Loading work.proj_02_swa(swa)
+# Loading work.proj_02_and(main)
+# Loading work.proj_02_or(main)
+# Loading work.proj_02_xor(main)
+# Loading work.proj_02_mux_8b(log)
+# ** Warning: (vsim-8684) No drivers exist on out port /proj_02_multiplexador/Swp_labble/Swp(6), and its initial value is not used.
+# Therefore, simulation behavior may occur that is not in compliance with
+# the VHDL standard as the initial values come from the base signal /proj_02_multiplexador/O_swp(6).
+# ** Warning: (vsim-8684) No drivers exist on out port /proj_02_multiplexador/Swa_labble/Swa(6), and its initial value is not used.
+# Therefore, simulation behavior may occur that is not in compliance with
+# the VHDL standard as the initial values come from the base signal /proj_02_multiplexador/O_swa(6).
+force -freeze sim:/proj_02_multiplexador/A 01001011 0
+force -freeze sim:/proj_02_multiplexador/B 00001001 0
+force -freeze sim:/proj_02_multiplexador/K 0001 0
+run
+force -freeze sim:/proj_02_multiplexador/K 1010 0
+run
+# Error opening C:/Users/velyn/Downloads/CD/Projeto_02_ULA/(vsim-8684) No drivers exist on out port /proj_02_multiplexador/Swa_labble/Swa
+# Path name 'C:/Users/velyn/Downloads/CD/Projeto_02_ULA/(vsim-8684) No drivers exist on out port /proj_02_multiplexador/Swa_labble/Swa' doesn't exist.
+# A time value could not be extracted from the current line
+# Compile of Proj_02_D7seg.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_1b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_2b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_4b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_8b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_1b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_2b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_4b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_8b.vhdl was successful.
+# Compile of Proj_02_multiplexador.vhdl was successful.
+# Compile of Proj_02_multiplicador.vhdl was successful.
+# Compile of Proj_02_mux_deslocador.vhdl was successful.
+# Compile of Proj_02_not.vhdl was successful.
+# Compile of Proj_02_or.vhdl was successful.
+# Compile of Proj_02_somador.vhdl was successful.
+# Compile of Proj_02_subtrator.vhdl was successful.
+# Compile of Proj_02_swa.vhdl was successful.
+# Compile of Proj_02_swp.vhdl was successful.
+# Compile of Proj_02_xor.vhdl was successful.
+# Compile of Proj_02_and.vhdl was successful.
+# Compile of Proj_02_bcd.vhdl was successful.
+# Compile of Proj_02_bloco.vhdl was successful.
+# Compile of Proj_02_circuito.vhdl was successful.
+# Compile of Proj_02_mux_8b.vhd was successful.
+# 24 compiles, 0 failed with no errors.
+# End time: 01:58:47 on Mar 31,2024, Elapsed time: 0:10:29
+# Errors: 0, Warnings: 4
+# vsim Proj_02_multiplexador 
+# Start time: 01:58:47 on Mar 31,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.proj_02_multiplexador(main)
+# Loading work.proj_02_somador(soma)
+# Loading work.proj_02_subtrator(subtracao)
+# Loading work.proj_02_multiplicador(log)
+# Loading work.proj_02_deslocador_esquerda_8b(log)
+# Loading work.proj_02_deslocador_esquerda_1b(log)
+# Loading work.proj_02_mux_deslocador(log)
+# Loading work.proj_02_deslocador_esquerda_2b(log)
+# Loading work.proj_02_deslocador_esquerda_4b(log)
+# Loading work.proj_02_deslocador_direita_8b(log)
+# Loading work.proj_02_deslocador_direita_1b(log)
+# Loading work.proj_02_deslocador_direita_2b(log)
+# Loading work.proj_02_deslocador_direita_4b(log)
+# Loading work.proj_02_swp(swp)
+# Loading work.proj_02_swa(swa)
+# Loading work.proj_02_and(main)
+# Loading work.proj_02_or(main)
+# Loading work.proj_02_xor(main)
+# Loading work.proj_02_mux_8b(log)
+force -freeze sim:/proj_02_multiplexador/A 11010101 0
+force -freeze sim:/proj_02_multiplexador/B 00010011 0
+force -freeze sim:/proj_02_multiplexador/K 1000 0
+run
+force -freeze sim:/proj_02_multiplexador/K 0000 0
+run
+# Compile of Proj_02_D7seg.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_1b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_2b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_4b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_8b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_1b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_2b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_4b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_8b.vhdl was successful.
+# Compile of Proj_02_multiplexador.vhdl failed with 1 errors.
+# Compile of Proj_02_multiplicador.vhdl was successful.
+# Compile of Proj_02_mux_deslocador.vhdl was successful.
+# Compile of Proj_02_not.vhdl was successful.
+# Compile of Proj_02_or.vhdl was successful.
+# Compile of Proj_02_somador.vhdl was successful.
+# Compile of Proj_02_subtrator.vhdl was successful.
+# Compile of Proj_02_swa.vhdl was successful.
+# Compile of Proj_02_swp.vhdl was successful.
+# Compile of Proj_02_xor.vhdl was successful.
+# Compile of Proj_02_and.vhdl was successful.
+# Compile of Proj_02_bcd.vhdl was successful.
+# Compile of Proj_02_bloco.vhdl was successful.
+# Compile of Proj_02_circuito.vhdl was successful.
+# Compile of Proj_02_mux_8b.vhd was successful.
+# 24 compiles, 1 failed with 1 error.
+# Compile of Proj_02_D7seg.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_1b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_2b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_4b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_8b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_1b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_2b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_4b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_8b.vhdl was successful.
+# Compile of Proj_02_multiplexador.vhdl failed with 3 errors.
+# Compile of Proj_02_multiplicador.vhdl was successful.
+# Compile of Proj_02_mux_deslocador.vhdl was successful.
+# Compile of Proj_02_not.vhdl was successful.
+# Compile of Proj_02_or.vhdl was successful.
+# Compile of Proj_02_somador.vhdl was successful.
+# Compile of Proj_02_subtrator.vhdl was successful.
+# Compile of Proj_02_swa.vhdl was successful.
+# Compile of Proj_02_swp.vhdl was successful.
+# Compile of Proj_02_xor.vhdl was successful.
+# Compile of Proj_02_and.vhdl was successful.
+# Compile of Proj_02_bcd.vhdl was successful.
+# Compile of Proj_02_bloco.vhdl was successful.
+# Compile of Proj_02_circuito.vhdl was successful.
+# Compile of Proj_02_mux_8b.vhd was successful.
+# 24 compiles, 1 failed with 3 errors.
+# Compile of Proj_02_D7seg.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_1b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_2b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_4b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_8b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_1b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_2b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_4b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_8b.vhdl was successful.
+# Compile of Proj_02_multiplexador.vhdl failed with 2 errors.
+# Compile of Proj_02_multiplicador.vhdl was successful.
+# Compile of Proj_02_mux_deslocador.vhdl was successful.
+# Compile of Proj_02_not.vhdl was successful.
+# Compile of Proj_02_or.vhdl was successful.
+# Compile of Proj_02_somador.vhdl was successful.
+# Compile of Proj_02_subtrator.vhdl was successful.
+# Compile of Proj_02_swa.vhdl was successful.
+# Compile of Proj_02_swp.vhdl was successful.
+# Compile of Proj_02_xor.vhdl was successful.
+# Compile of Proj_02_and.vhdl was successful.
+# Compile of Proj_02_bcd.vhdl was successful.
+# Compile of Proj_02_bloco.vhdl was successful.
+# Compile of Proj_02_circuito.vhdl was successful.
+# Compile of Proj_02_mux_8b.vhd was successful.
+# 24 compiles, 1 failed with 2 errors.
+# Compile of Proj_02_D7seg.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_1b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_2b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_4b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_8b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_1b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_2b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_4b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_8b.vhdl was successful.
+# Compile of Proj_02_multiplexador.vhdl failed with 1 errors.
+# Compile of Proj_02_multiplicador.vhdl was successful.
+# Compile of Proj_02_mux_deslocador.vhdl was successful.
+# Compile of Proj_02_not.vhdl was successful.
+# Compile of Proj_02_or.vhdl was successful.
+# Compile of Proj_02_somador.vhdl was successful.
+# Compile of Proj_02_subtrator.vhdl was successful.
+# Compile of Proj_02_swa.vhdl was successful.
+# Compile of Proj_02_swp.vhdl was successful.
+# Compile of Proj_02_xor.vhdl was successful.
+# Compile of Proj_02_and.vhdl was successful.
+# Compile of Proj_02_bcd.vhdl was successful.
+# Compile of Proj_02_bloco.vhdl was successful.
+# Compile of Proj_02_circuito.vhdl was successful.
+# Compile of Proj_02_mux_8b.vhd was successful.
+# 24 compiles, 1 failed with 1 error.
+# Compile of Proj_02_D7seg.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_1b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_2b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_4b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_8b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_1b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_2b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_4b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_8b.vhdl was successful.
+# Compile of Proj_02_multiplexador.vhdl was successful.
+# Compile of Proj_02_multiplicador.vhdl was successful.
+# Compile of Proj_02_mux_deslocador.vhdl was successful.
+# Compile of Proj_02_not.vhdl was successful.
+# Compile of Proj_02_or.vhdl was successful.
+# Compile of Proj_02_somador.vhdl was successful.
+# Compile of Proj_02_subtrator.vhdl was successful.
+# Compile of Proj_02_swa.vhdl was successful.
+# Compile of Proj_02_swp.vhdl was successful.
+# Compile of Proj_02_xor.vhdl was successful.
+# Compile of Proj_02_and.vhdl was successful.
+# Compile of Proj_02_bcd.vhdl was successful.
+# Compile of Proj_02_bloco.vhdl was successful.
+# Compile of Proj_02_circuito.vhdl was successful.
+# Compile of Proj_02_mux_8b.vhd was successful.
+# 24 compiles, 0 failed with no errors.
+# End time: 07:56:46 on Mar 31,2024, Elapsed time: 5:57:59
+# Errors: 0, Warnings: 6
+# vsim Proj_02_multiplexador 
+# Start time: 07:56:46 on Mar 31,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.proj_02_multiplexador(main)
+# Loading work.proj_02_somador(soma)
+# Loading work.proj_02_subtrator(subtracao)
+# Loading work.proj_02_multiplicador(log)
+# Loading work.proj_02_deslocador_esquerda_8b(log)
+# Loading work.proj_02_deslocador_esquerda_1b(log)
+# Loading work.proj_02_mux_deslocador(log)
+# Loading work.proj_02_deslocador_esquerda_2b(log)
+# Loading work.proj_02_deslocador_esquerda_4b(log)
+# Loading work.proj_02_deslocador_direita_8b(log)
+# Loading work.proj_02_deslocador_direita_1b(log)
+# Loading work.proj_02_deslocador_direita_2b(log)
+# Loading work.proj_02_deslocador_direita_4b(log)
+# Loading work.proj_02_swp(swp)
+# Loading work.proj_02_swa(swa)
+# Loading work.proj_02_and(main)
+# Loading work.proj_02_or(main)
+# Loading work.proj_02_xor(main)
+# Loading work.proj_02_mux_8b(log)
+force -freeze sim:/proj_02_multiplexador/A 10010100 0
+force -freeze sim:/proj_02_multiplexador/B 00000100 0
+force -freeze sim:/proj_02_multiplexador/K 0011 0
+run
+# Compile of Proj_02_D7seg.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_1b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_2b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_4b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_8b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_1b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_2b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_4b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_8b.vhdl was successful.
+# Compile of Proj_02_multiplexador.vhdl failed with 6 errors.
+# Compile of Proj_02_multiplicador.vhdl was successful.
+# Compile of Proj_02_mux_deslocador.vhdl was successful.
+# Compile of Proj_02_not.vhdl was successful.
+# Compile of Proj_02_or.vhdl was successful.
+# Compile of Proj_02_somador.vhdl was successful.
+# Compile of Proj_02_subtrator.vhdl was successful.
+# Compile of Proj_02_swa.vhdl was successful.
+# Compile of Proj_02_swp.vhdl was successful.
+# Compile of Proj_02_xor.vhdl was successful.
+# Compile of Proj_02_and.vhdl was successful.
+# Compile of Proj_02_bcd.vhdl was successful.
+# Compile of Proj_02_bloco.vhdl was successful.
+# Compile of Proj_02_circuito.vhdl was successful.
+# Compile of Proj_02_mux_8b.vhd was successful.
+# 24 compiles, 1 failed with 6 errors.
+# Compile of Proj_02_D7seg.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_1b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_2b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_4b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_8b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_1b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_2b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_4b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_8b.vhdl was successful.
+# Compile of Proj_02_multiplexador.vhdl failed with 1 errors.
+# Compile of Proj_02_multiplicador.vhdl was successful.
+# Compile of Proj_02_mux_deslocador.vhdl was successful.
+# Compile of Proj_02_not.vhdl was successful.
+# Compile of Proj_02_or.vhdl was successful.
+# Compile of Proj_02_somador.vhdl was successful.
+# Compile of Proj_02_subtrator.vhdl was successful.
+# Compile of Proj_02_swa.vhdl was successful.
+# Compile of Proj_02_swp.vhdl was successful.
+# Compile of Proj_02_xor.vhdl was successful.
+# Compile of Proj_02_and.vhdl was successful.
+# Compile of Proj_02_bcd.vhdl was successful.
+# Compile of Proj_02_bloco.vhdl was successful.
+# Compile of Proj_02_circuito.vhdl was successful.
+# Compile of Proj_02_mux_8b.vhd was successful.
+# 24 compiles, 1 failed with 1 error.
+# Compile of Proj_02_D7seg.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_1b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_2b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_4b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_8b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_1b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_2b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_4b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_8b.vhdl was successful.
+# Compile of Proj_02_multiplexador.vhdl was successful.
+# Compile of Proj_02_multiplicador.vhdl was successful.
+# Compile of Proj_02_mux_deslocador.vhdl was successful.
+# Compile of Proj_02_not.vhdl was successful.
+# Compile of Proj_02_or.vhdl was successful.
+# Compile of Proj_02_somador.vhdl was successful.
+# Compile of Proj_02_subtrator.vhdl was successful.
+# Compile of Proj_02_swa.vhdl was successful.
+# Compile of Proj_02_swp.vhdl was successful.
+# Compile of Proj_02_xor.vhdl was successful.
+# Compile of Proj_02_and.vhdl was successful.
+# Compile of Proj_02_bcd.vhdl was successful.
+# Compile of Proj_02_bloco.vhdl was successful.
+# Compile of Proj_02_circuito.vhdl was successful.
+# Compile of Proj_02_mux_8b.vhd was successful.
+# 24 compiles, 0 failed with no errors.
+force -freeze sim:/proj_02_multiplexador/K 0001 0
+run
+# Compile of Proj_02_D7seg.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_1b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_2b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_4b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_8b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_1b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_2b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_4b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_8b.vhdl was successful.
+# Compile of Proj_02_multiplexador.vhdl failed with 126 errors.
+# Compile of Proj_02_multiplicador.vhdl was successful.
+# Compile of Proj_02_mux_deslocador.vhdl was successful.
+# Compile of Proj_02_not.vhdl was successful.
+# Compile of Proj_02_or.vhdl was successful.
+# Compile of Proj_02_somador.vhdl was successful.
+# Compile of Proj_02_subtrator.vhdl was successful.
+# Compile of Proj_02_swa.vhdl was successful.
+# Compile of Proj_02_swp.vhdl was successful.
+# Compile of Proj_02_xor.vhdl was successful.
+# Compile of Proj_02_and.vhdl was successful.
+# Compile of Proj_02_bcd.vhdl was successful.
+# Compile of Proj_02_bloco.vhdl was successful.
+# Compile of Proj_02_circuito.vhdl was successful.
+# Compile of Proj_02_mux_8b.vhd was successful.
+# 24 compiles, 1 failed with 126 errors.
+# Compile of Proj_02_D7seg.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_1b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_2b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_4b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_8b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_1b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_2b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_4b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_8b.vhdl was successful.
+# Compile of Proj_02_multiplexador.vhdl failed with 2 errors.
+# Compile of Proj_02_multiplicador.vhdl was successful.
+# Compile of Proj_02_mux_deslocador.vhdl was successful.
+# Compile of Proj_02_not.vhdl was successful.
+# Compile of Proj_02_or.vhdl was successful.
+# Compile of Proj_02_somador.vhdl was successful.
+# Compile of Proj_02_subtrator.vhdl was successful.
+# Compile of Proj_02_swa.vhdl was successful.
+# Compile of Proj_02_swp.vhdl was successful.
+# Compile of Proj_02_xor.vhdl was successful.
+# Compile of Proj_02_and.vhdl was successful.
+# Compile of Proj_02_bcd.vhdl was successful.
+# Compile of Proj_02_bloco.vhdl was successful.
+# Compile of Proj_02_circuito.vhdl was successful.
+# Compile of Proj_02_mux_8b.vhd was successful.
+# 24 compiles, 1 failed with 2 errors.
+# Compile of Proj_02_D7seg.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_1b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_2b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_4b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_8b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_1b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_2b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_4b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_8b.vhdl was successful.
+# Compile of Proj_02_multiplexador.vhdl failed with 1 errors.
+# Compile of Proj_02_multiplicador.vhdl was successful.
+# Compile of Proj_02_mux_deslocador.vhdl was successful.
+# Compile of Proj_02_not.vhdl was successful.
+# Compile of Proj_02_or.vhdl was successful.
+# Compile of Proj_02_somador.vhdl was successful.
+# Compile of Proj_02_subtrator.vhdl was successful.
+# Compile of Proj_02_swa.vhdl was successful.
+# Compile of Proj_02_swp.vhdl was successful.
+# Compile of Proj_02_xor.vhdl was successful.
+# Compile of Proj_02_and.vhdl was successful.
+# Compile of Proj_02_bcd.vhdl was successful.
+# Compile of Proj_02_bloco.vhdl was successful.
+# Compile of Proj_02_circuito.vhdl was successful.
+# Compile of Proj_02_mux_8b.vhd was successful.
+# 24 compiles, 1 failed with 1 error.
+# Compile of Proj_02_D7seg.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_1b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_2b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_4b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_8b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_1b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_2b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_4b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_8b.vhdl was successful.
+# Compile of Proj_02_multiplexador.vhdl failed with 1 errors.
+# Compile of Proj_02_multiplicador.vhdl was successful.
+# Compile of Proj_02_mux_deslocador.vhdl was successful.
+# Compile of Proj_02_not.vhdl was successful.
+# Compile of Proj_02_or.vhdl was successful.
+# Compile of Proj_02_somador.vhdl was successful.
+# Compile of Proj_02_subtrator.vhdl was successful.
+# Compile of Proj_02_swa.vhdl was successful.
+# Compile of Proj_02_swp.vhdl was successful.
+# Compile of Proj_02_xor.vhdl was successful.
+# Compile of Proj_02_and.vhdl was successful.
+# Compile of Proj_02_bcd.vhdl was successful.
+# Compile of Proj_02_bloco.vhdl was successful.
+# Compile of Proj_02_circuito.vhdl was successful.
+# Compile of Proj_02_mux_8b.vhd was successful.
+# 24 compiles, 1 failed with 1 error.
+# Compile of Proj_02_D7seg.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_1b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_2b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_4b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_8b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_1b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_2b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_4b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_8b.vhdl was successful.
+# Compile of Proj_02_multiplexador.vhdl failed with 1 errors.
+# Compile of Proj_02_multiplicador.vhdl was successful.
+# Compile of Proj_02_mux_deslocador.vhdl was successful.
+# Compile of Proj_02_not.vhdl was successful.
+# Compile of Proj_02_or.vhdl was successful.
+# Compile of Proj_02_somador.vhdl was successful.
+# Compile of Proj_02_subtrator.vhdl was successful.
+# Compile of Proj_02_swa.vhdl was successful.
+# Compile of Proj_02_swp.vhdl was successful.
+# Compile of Proj_02_xor.vhdl was successful.
+# Compile of Proj_02_and.vhdl was successful.
+# Compile of Proj_02_bcd.vhdl was successful.
+# Compile of Proj_02_bloco.vhdl was successful.
+# Compile of Proj_02_circuito.vhdl was successful.
+# Compile of Proj_02_mux_8b.vhd was successful.
+# 24 compiles, 1 failed with 1 error.
+# Compile of Proj_02_D7seg.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_1b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_2b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_4b.vhdl was successful.
+# Compile of Proj_02_deslocador_direita_8b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_1b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_2b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_4b.vhdl was successful.
+# Compile of Proj_02_deslocador_esquerda_8b.vhdl was successful.
+# Compile of Proj_02_multiplexador.vhdl was successful.
+# Compile of Proj_02_multiplicador.vhdl was successful.
+# Compile of Proj_02_mux_deslocador.vhdl was successful.
+# Compile of Proj_02_not.vhdl was successful.
+# Compile of Proj_02_or.vhdl was successful.
+# Compile of Proj_02_somador.vhdl was successful.
+# Compile of Proj_02_subtrator.vhdl was successful.
+# Compile of Proj_02_swa.vhdl was successful.
+# Compile of Proj_02_swp.vhdl was successful.
+# Compile of Proj_02_xor.vhdl was successful.
+# Compile of Proj_02_and.vhdl was successful.
+# Compile of Proj_02_bcd.vhdl was successful.
+# Compile of Proj_02_bloco.vhdl was successful.
+# Compile of Proj_02_circuito.vhdl was successful.
+# Compile of Proj_02_mux_8b.vhd was successful.
+# 24 compiles, 0 failed with no errors.
+# End time: 08:52:52 on Mar 31,2024, Elapsed time: 0:56:06
+# Errors: 0, Warnings: 10
+# vsim Proj_02_multiplexador 
+# Start time: 08:52:52 on Mar 31,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.proj_02_multiplexador(main)
+# Loading work.proj_02_somador(soma)
+# Loading work.proj_02_subtrator(subtracao)
+# Loading work.proj_02_multiplicador(log)
+# Loading work.proj_02_deslocador_esquerda_8b(log)
+# Loading work.proj_02_deslocador_esquerda_1b(log)
+# Loading work.proj_02_mux_deslocador(log)
+# Loading work.proj_02_deslocador_esquerda_2b(log)
+# Loading work.proj_02_deslocador_esquerda_4b(log)
+# Loading work.proj_02_deslocador_direita_8b(log)
+# Loading work.proj_02_deslocador_direita_1b(log)
+# Loading work.proj_02_deslocador_direita_2b(log)
+# Loading work.proj_02_deslocador_direita_4b(log)
+# Loading work.proj_02_swp(swp)
+# Loading work.proj_02_swa(swa)
+# Loading work.proj_02_and(main)
+# Loading work.proj_02_or(main)
+# Loading work.proj_02_xor(main)
+# Loading work.proj_02_mux_8b(log)
+force -freeze sim:/proj_02_multiplexador/A 10010100 0
+force -freeze sim:/proj_02_multiplexador/B 10101100 0
+force -freeze sim:/proj_02_multiplexador/K 0001 0
+run
+force -freeze sim:/proj_02_multiplexador/K 1000 0
+run
+# WARNING: No extended dataflow license exists
+force -freeze sim:/proj_02_multiplexador/B 00000001 0
+run
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+force -freeze sim:/proj_02_multiplexador/K 0011 0
+run
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+force -freeze sim:/proj_02_multiplexador/B 00000100 0
+run
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+quit - sim
+# unknown switch: - sim
+quit -sim
+# End time: 08:57:53 on Mar 31,2024, Elapsed time: 0:05:01
+# Errors: 0, Warnings: 2
