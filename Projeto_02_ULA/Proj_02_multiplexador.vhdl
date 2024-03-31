@@ -187,7 +187,7 @@ END COMPONENT Proj_02_circuito;
         And_logic_labble   : Proj_02_and port map (A,B,O_and);
         Or_logic_labble    : Proj_02_or port map (A,B,O_or);
         XOr_logic_labble    : Proj_02_xor port map (A,B,O_xor);
-        Not_logic_labble    : Proj_02_or port map (A,B,O_Not);
+        Not_logic_labble    : Proj_02_or port map (A,O_not);
 
         vector_zero <= ('0','0','0','0','0','0','0','0');
 	C_mul_vec <= (C_mul_OUT,C_mul_OUT,C_mul_OUT,C_mul_OUT,C_mul_OUT,C_mul_OUT,C_mul_OUT,C_mul_OUT);
