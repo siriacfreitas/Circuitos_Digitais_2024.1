@@ -110,8 +110,7 @@ END COMPONENT Proj_02_circuito;
         
     COMPONENT Proj_02_not is 
         port (
-            A_xor   : in std_logic_vector (7 downto 0);
-            B_xor   : in std_logic_vector (7 downto 0);
+            A_not  : in std_logic_vector (7 downto 0);
             NOT_logic : out std_logic_vector (7 downto 0)
             );
         end COMPONENT Proj_02_not;
